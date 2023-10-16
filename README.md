@@ -5,3 +5,6 @@
 
 무중단 배포중이며 url은 아래와 같습니다.
 http://ec2-13-239-95-220.ap-southeast-2.compute.amazonaws.com/
+
+
+제작 당시 사용했던 리포지토리는 민감한 key가 노출되어 private로 바꿧습니다.
